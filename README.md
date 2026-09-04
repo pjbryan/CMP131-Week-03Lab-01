@@ -25,3 +25,10 @@ Keep all Python files directly in the repository root. Do not create a `src` fol
 7. Submit through Blackboard Ultra as directed.
 
 **Do not push your work to the instructor’s starter repository.**
+
+
+- Ruijerd Superdia (Dead End)
+- 20 (Volume 16)
+- War Chief, Adventurer, Tribe Ambassador
+- Age: 500-1000 years
+- 
