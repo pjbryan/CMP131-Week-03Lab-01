@@ -11,4 +11,7 @@
 name = "Ruijerd Superdia"
 age = 1000
 occupational_Role = "Tribe Ambassador"
-print(age)
+important_Accomplishment = "Restored honor to the Superd tribe"
+interesting_Fact = 
+
+print()
