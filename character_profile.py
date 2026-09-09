@@ -6,20 +6,20 @@
 # 9/9/2026
 
 name = "Ruijerd Superdia"
-age = 1000
-occupationalRole = "Tribe Ambassador"
+age = 566
+occupationalRole = "Tribe Ambassador, Adventurer"
 importantAccomplishment = "Restored honor to the Superd tribe"
 companion = "Norn Greyrat"
 residence = "Greyrat family residence in Sharia, the Magic City"
 strength = "Third Eye: Acts as a radar, able to locate enemies which are not in sight."
 
-print(name)
-print(age)
-print(occupationalRole)
-print(importantAccomplishment)
-print(companion)
-print(residence)
-print(strength)
+print("Name:",name)
+print("Age: approximately",age,"years old.")
+print("Occupation:",occupationalRole)
+print("Accomplishment:",importantAccomplishment)
+print("<3:",companion)
+print("Residence:",residence)
+print("Strengths:",strength)
 
 print("-------------------------------")
  
