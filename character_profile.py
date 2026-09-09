@@ -4,7 +4,6 @@
 # Lab 01
 # Assignment 2
 # 9/9/2026
-# Strength, Weakness, residence
 
 name = "Ruijerd Superdia"
 age = 1000
