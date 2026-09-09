@@ -8,13 +8,12 @@
 
 name = "Ruijerd Superdia"
 age = 1000
-occupational_Role = "Tribe Ambassador"
-important_Accomplishment = "Restored honor to the Superd tribe"
+occupationalRole = "Tribe Ambassador"
+importantAccomplishment = "Restored honor to the Superd tribe"
 companion = "Norn Greyrat"
 residence = "Greyrat family residence in Sharia, the Magic City"
 strength = "Third Eye: Acts as a radar, able to locate enemies which are not in sight."
 
-
-
-
-print()
+# print() # Favorite Quote: Header
+# 
+favoriteQuote = "Do you want us to go extinct?! Rudeus brought that man here, and I trust Rudeus. If you have complaints, save them until after I’m dead.""
