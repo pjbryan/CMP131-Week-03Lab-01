@@ -14,6 +14,15 @@ companion = "Norn Greyrat"
 residence = "Greyrat family residence in Sharia, the Magic City"
 strength = "Third Eye: Acts as a radar, able to locate enemies which are not in sight."
 
-# print() # Favorite Quote: Header
-# 
+print(name)
+print(age)
+print(occupationalRole)
+print(importantAccomplishment)
+print(companion)
+print(residence)
+print(strength)
+
+print("-------------------------------")
+ 
 favoriteQuote = "Do you want us to go extinct?! Rudeus brought that man here, and I trust Rudeus. If you have complaints, save them until after I’m dead.""
+print(favoriteQuote)
