@@ -4,14 +4,17 @@
 # Lab 01
 # Assignment 2
 # 9/9/2026
-# * Important accomplishment
-# * Interesting fact
-
+# Strength, Weakness, residence
 
 name = "Ruijerd Superdia"
 age = 1000
 occupational_Role = "Tribe Ambassador"
 important_Accomplishment = "Restored honor to the Superd tribe"
-interesting_Fact = 
+companion = "Norn Greyrat"
+residence = "Greyrat family residence in Sharia, the Magic City"
+strength = "Third Eye: Acts as a radar, able to locate enemies which are not in sight."
+
+
+
 
 print()
