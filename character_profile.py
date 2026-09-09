@@ -24,5 +24,5 @@ print(strength)
 
 print("-------------------------------")
  
-favoriteQuote = '"Do you want us to go extinct?! Rudeus brought that man here, and I trust Rudeus. If you have complaints, save them until after I’m dead."'
+favoriteQuote = 'Ruijerd: "Do you want us to go extinct?! Rudeus brought that man here, and I trust Rudeus. If you have complaints, save them until after I’m dead."'
 print(favoriteQuote)
